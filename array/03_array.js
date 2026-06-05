@@ -71,3 +71,9 @@ console.log(fruit)
 }
 
 unshiftManually()
+
+//push 
+
+const car=["BMW","WalksWagen","mercedes"]
+
+console.log(car.push("TATA"))
